@@ -21,10 +21,8 @@
 21 Captain Marvel
 22 Avengers: Endgame
 23 Spider-Man: Far From Homecoming
-<<<<<<< HEAD
-24 The Falcon and the Winter Soldier
-25 Loki
-
-=======
 24 Wandavision
->>>>>>> 46aecf4f6dd6514716fbf805fd7f83ec88b40bd0
+25 The Falcon and the Winter Soldier
+26 Loki
+
+
